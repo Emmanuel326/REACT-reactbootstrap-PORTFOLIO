@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/REACT-reactbootstrap-PORTFOLIO/static/css/main.cdb273b5.css",
+    "main.js": "/REACT-reactbootstrap-PORTFOLIO/static/js/main.22eba120.js",
+    "static/js/415.fc063c41.chunk.js": "/REACT-reactbootstrap-PORTFOLIO/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/REACT-reactbootstrap-PORTFOLIO/static/js/787.f6e65957.chunk.js",
+    "static/media/home-bg.jpg": "/REACT-reactbootstrap-PORTFOLIO/static/media/home-bg.5cdb7486afa6bf8d557d.jpg",
+    "static/media/about.png": "/REACT-reactbootstrap-PORTFOLIO/static/media/about.c1e70ab2e63e7601b4ce.png",
+    "static/media/home-main.png": "/REACT-reactbootstrap-PORTFOLIO/static/media/home-main.722a8e38583f428caab2.png",
+    "static/media/avatar.svg": "/REACT-reactbootstrap-PORTFOLIO/static/media/avatar.88b81680983ff135416897f5e7bc2ffb.svg",
+    "static/media/logo.png": "/REACT-reactbootstrap-PORTFOLIO/static/media/logo.5d9d8243449bf8e93f90.png",
+    "static/media/pre.svg": "/REACT-reactbootstrap-PORTFOLIO/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/REACT-reactbootstrap-PORTFOLIO/index.html",
+    "main.cdb273b5.css.map": "/REACT-reactbootstrap-PORTFOLIO/static/css/main.cdb273b5.css.map",
+    "main.22eba120.js.map": "/REACT-reactbootstrap-PORTFOLIO/static/js/main.22eba120.js.map",
+    "415.fc063c41.chunk.js.map": "/REACT-reactbootstrap-PORTFOLIO/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/REACT-reactbootstrap-PORTFOLIO/static/js/787.f6e65957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdb273b5.css",
+    "static/js/main.22eba120.js"
+  ]
+}
