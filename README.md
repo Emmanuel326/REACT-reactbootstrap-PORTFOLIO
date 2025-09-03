@@ -193,16 +193,17 @@ This will deploy the portfolio to the live demo URL.
 Here’s a quick preview of the portfolio:
 
 ### Home Page
-![Home Page](./public/home-main.png)
+![Home Page](./Assets/screenshots/home-main.png)
 
 ### About Section
-![About Section](./public/about.png)
+![About Section](./Assets/screenshots/about.png)
 
 ### Projects Section
-![Projects Section](./public/blog.png)
+![Projects Section](./Assets/screenshots/blog.png)
 
 ### Resume Section
-![Resume Section](./public/Emmanuel_sso.png)
+![Resume Section](./Assets/screenshots/Emmanuel_sso.png)
+
 
 ---
 
