@@ -1,0 +1,127 @@
+/* Resume.css */
+.resume-section {
+  padding: 50px 0;
+  min-height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  z-index: 1; /* ensures this section sits above background */
+}
+
+.resume-title {
+  color: #6b46c1;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  position: relative;
+  z-index: 2;
+}
+
+.resume-subtitle {
+  color: #718096;
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  position: relative;
+  z-index: 2;
+}
+
+.download-btn {
+  background: linear-gradient(135deg, #6b46c1 0%, #805ad5 100%);
+  border: none;
+  border-radius: 30px;
+  padding: 12px 30px;
+  font-weight: 600;
+  box-shadow: 0 4px 8px rgba(107, 70, 193, 0.3);
+  transition: all 0.3s ease;
+  font-size: 1.1rem;
+  position: relative;
+  z-index: 5; /* 👈 keeps button above Particle canvas */
+  cursor: pointer;
+}
+
+.download-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(107, 70, 193, 0.4);
+  background: linear-gradient(135deg, #805ad5 0%, #6b46c1 100%);
+}
+
+.download-btn:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+.resume-info {
+  margin-top: 2rem;
+  position: relative;
+  z-index: 2;
+}
+
+.info-card {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  position: relative;
+  z-index: 2;
+}
+
+.info-card h3 {
+  color: #3444a7;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
+}
+
+.info-card p {
+  color: #4a5568;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.info-card ul {
+  color: #4a5568;
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.info-card li {
+  margin-bottom: 0.5rem;
+}
+
+.conversion-note {
+  color: #3b80e7;
+  font-style: italic;
+  margin-top: 2rem;
+}
+
+.conversion-link {
+  color: #29dbb1;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.conversion-link:hover {
+  color: #46b2d3;
+  text-decoration: underline;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .resume-title {
+    font-size: 2rem;
+  }
+  
+  .resume-subtitle {
+    font-size: 1rem;
+  }
+  
+  .info-card {
+    padding: 20px;
+  }
+  
+  .download-btn {
+    padding: 10px 20px;
+    font-size: 1rem;
+  }
+}
