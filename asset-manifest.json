@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/REACT-reactbootstrap-PORTFOLIO/static/css/main.cdb273b5.css",
-    "main.js": "/REACT-reactbootstrap-PORTFOLIO/static/js/main.22eba120.js",
+    "main.js": "/REACT-reactbootstrap-PORTFOLIO/static/js/main.89ccae1f.js",
     "static/js/415.fc063c41.chunk.js": "/REACT-reactbootstrap-PORTFOLIO/static/js/415.fc063c41.chunk.js",
     "static/js/787.f6e65957.chunk.js": "/REACT-reactbootstrap-PORTFOLIO/static/js/787.f6e65957.chunk.js",
     "static/media/home-bg.jpg": "/REACT-reactbootstrap-PORTFOLIO/static/media/home-bg.5cdb7486afa6bf8d557d.jpg",
@@ -12,12 +12,12 @@
     "static/media/pre.svg": "/REACT-reactbootstrap-PORTFOLIO/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/REACT-reactbootstrap-PORTFOLIO/index.html",
     "main.cdb273b5.css.map": "/REACT-reactbootstrap-PORTFOLIO/static/css/main.cdb273b5.css.map",
-    "main.22eba120.js.map": "/REACT-reactbootstrap-PORTFOLIO/static/js/main.22eba120.js.map",
+    "main.89ccae1f.js.map": "/REACT-reactbootstrap-PORTFOLIO/static/js/main.89ccae1f.js.map",
     "415.fc063c41.chunk.js.map": "/REACT-reactbootstrap-PORTFOLIO/static/js/415.fc063c41.chunk.js.map",
     "787.f6e65957.chunk.js.map": "/REACT-reactbootstrap-PORTFOLIO/static/js/787.f6e65957.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cdb273b5.css",
-    "static/js/main.22eba120.js"
+    "static/js/main.89ccae1f.js"
   ]
 }
