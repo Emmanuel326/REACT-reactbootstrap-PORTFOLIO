@@ -164,45 +164,6 @@ function NavBar() {
             </Nav.Item>
           </Nav>
         </Navbar.Collapse>
-
-        {/* Social Icons for Mobile View (outside collapsible area) */}
-        <div className="social-icons-mobile">
-          <a
-            href="https://github.com/Emmanuel326"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <AiFillGithub />
-          </a>
-          <a
-            href="https://X.com/Emmanu3l326"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <AiOutlineTwitter />
-          </a>
-          <a
-            href="https://www.linkedin.com/in/Emmanu3l326/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaLinkedinIn />
-          </a>
-          <a
-            href="https://www.reddit.com/u/WittyBad6073/s/wCDuFrHts7"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <AiFillRedditCircle />
-          </a>
-          <a
-            href="https://stackoverflow.com/users/31349080/emmanu3l326"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FaStackOverflow />
-          </a>
-        </div>
       </Container>
     </Navbar>
   );

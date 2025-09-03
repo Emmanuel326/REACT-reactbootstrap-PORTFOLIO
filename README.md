@@ -5,7 +5,8 @@ This website showcases my skills and serves as a central hub/eco-system to conne
 
 ## 🚀 Live Demo
 
-Check out the live version of this portfolio here: [View Live Demo](https://YOUR-GITHUB-PAGES-URL)
+Check out the live version of this portfolio here: [View Live Demo](https://Emmanuel326.github.io/REACT-reactbootstrap-PORTFOLIO)
+
 
 ---
 
@@ -39,7 +40,8 @@ The website acts as a central hub connecting all my projects and professional pr
 - **Phone:** +254740171999  
 - **GitHub:** [Emmanuel326](https://github.com/Emmanuel326)  
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/)  
-- **Portfolio Live Demo:** [Click here](https://Emmanuel326.github.io/REACT-reactbootstrap-PORTFOLIO)  
+- **Portfolio Live Demo:** [Click here](https://Emmanuel326.github.io/REACT-reactbootstrap-PORTFOLIO)
+
 
 ---
 
