@@ -21,7 +21,7 @@ const projectData = [
     imgPath: "", // You'll need to add this image
     ghLink: "https://github.com/Emmanuel326/STKPUSH-Django",
     demoLink: "", // Add demo link if you have a live version
-    tags: ["Django", " Python", " Backend", " API", " Payment Integration", " M-Pesa"]
+    tags: ["REACT ", "vite ",]
   }
 ];
 

@@ -8,7 +8,7 @@ function Projects() {
     <Container fluid className="project-section">
       <Container>
         <h1 className="project-heading">
-          Some of my <strong className="purple">Battle-Tested</strong> Projects
+          Some of my <strong className="purple">DONE</strong> Projects
         </h1>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           {projectData.map((project, idx) => (
